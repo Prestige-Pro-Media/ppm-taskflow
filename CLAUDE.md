@@ -9,8 +9,8 @@ Part of the PPM Automation Tool Ecosystem:
 - **Data Warehouse** — Analytics data owner (in progress)
 - **PPM TaskFlow** (this repo) — Project management + client hub
 - **PPM Brain** — AI agent orchestration
-- Design spec: `~/conductor/workspaces/ppm-automation-tool-ecosystem-v1/beirut/docs/client-hub-design.md`
-- Test plan: `~/conductor/workspaces/ppm-automation-tool-ecosystem-v1/beirut/docs/client-hub-test-plan.md`
+- Design spec: `~/Workspaces/repos/ppm-ecosystem/ppm-automation-tool-ecosystem/docs/client-hub-design.md`
+- Test plan: `~/Workspaces/repos/ppm-ecosystem/ppm-automation-tool-ecosystem/docs/client-hub-test-plan.md`
 
 ## Fork Strategy — Soft Fork Rules
 
